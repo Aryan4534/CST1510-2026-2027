@@ -1,0 +1,3 @@
+Week 4 notes
+Files store data
+with closes files automatically
