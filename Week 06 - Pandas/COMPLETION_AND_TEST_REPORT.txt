@@ -1,0 +1,21 @@
+WEEK 06 - PANDAS: COMPLETION AND TEST REPORT
+
+Completed:
+- Filled every '# your code here' cell in Topics 1-4.
+- Filled all D1-D14 and C1-C2 code cells in the LAB notebook.
+- Completed LAB/template.py using the IT lane and included mini_project_data.csv.
+- Added corrected versions of the three intentionally broken warm-up programs under LAB/warmup/solutions/.
+- Added a shared Week 6 servers.csv so the walkthrough notebooks can load their data.
+
+Tests:
+- Topic 1 walkthrough: PASS
+- Topic 2 walkthrough: PASS
+- Topic 3 walkthrough: PASS
+- Topic 4 walkthrough: PASS
+- LAB notebook: PASS
+- All 8 supplied example/demo/template Python scripts: PASS (exit code 0)
+- All 3 corrected warm-up solution scripts: PASS (exit code 0)
+
+Note:
+The original LAB/warmup files remain intentionally broken because the lab asks you to diagnose them.
+Use the corresponding *_fixed.py files in LAB/warmup/solutions/ to compare your fixes.
